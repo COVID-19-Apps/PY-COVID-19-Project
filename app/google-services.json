@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "603824523811",
+    "firebase_url": "https://py-covid-19-project.firebaseio.com",
+    "project_id": "py-covid-19-project",
+    "storage_bucket": "py-covid-19-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603824523811:android:8affea54a28c63cf7a3f96",
+        "android_client_info": {
+          "package_name": "com.pycovid19project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603824523811-f5oqej8frt6pugme1jgjncfvt7760i76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARn0yuHfSPJng7PGeMp4XF1OXZSvFMM1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603824523811-f5oqej8frt6pugme1jgjncfvt7760i76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

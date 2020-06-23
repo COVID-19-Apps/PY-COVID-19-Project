@@ -1,0 +1,112 @@
+package com.pycovid19project.Models;
+
+public class Jsons {
+
+    String home_treatment_images, home_treatment_links, toll_numbers, lab_test,
+            faq, epass, tracker, corona, py, cbse, vocational_education;
+
+    public Jsons() {
+    }
+
+    public Jsons(String home_treatment_images, String home_treatment_links, String toll_numbers, String lab_test, String faq, String epass, String tracker, String corona, String py, String cbse, String vocational_education) {
+        this.home_treatment_images = home_treatment_images;
+        this.home_treatment_links = home_treatment_links;
+        this.toll_numbers = toll_numbers;
+        this.lab_test = lab_test;
+        this.faq = faq;
+        this.epass = epass;
+        this.tracker = tracker;
+        this.corona = corona;
+        this.py = py;
+        this.cbse = cbse;
+        this.vocational_education = vocational_education;
+    }
+
+    public String getHome_treatment_images() {
+        return home_treatment_images;
+    }
+
+    public void setHome_treatment_images(String home_treatment_images) {
+        this.home_treatment_images = home_treatment_images;
+    }
+
+    public String getHome_treatment_links() {
+        return home_treatment_links;
+    }
+
+    public void setHome_treatment_links(String home_treatment_links) {
+        this.home_treatment_links = home_treatment_links;
+    }
+
+    public String getToll_numbers() {
+        return toll_numbers;
+    }
+
+    public void setToll_numbers(String toll_numbers) {
+        this.toll_numbers = toll_numbers;
+    }
+
+    public String getLab_test() {
+        return lab_test;
+    }
+
+    public void setLab_test(String lab_test) {
+        this.lab_test = lab_test;
+    }
+
+    public String getFaq() {
+        return faq;
+    }
+
+    public void setFaq(String faq) {
+        this.faq = faq;
+    }
+
+    public String getEpass() {
+        return epass;
+    }
+
+    public void setEpass(String epass) {
+        this.epass = epass;
+    }
+
+    public String getTracker() {
+        return tracker;
+    }
+
+    public void setTracker(String tracker) {
+        this.tracker = tracker;
+    }
+
+    public String getCorona() {
+        return corona;
+    }
+
+    public void setCorona(String corona) {
+        this.corona = corona;
+    }
+
+    public String getPy() {
+        return py;
+    }
+
+    public void setPy(String py) {
+        this.py = py;
+    }
+
+    public String getCbse() {
+        return cbse;
+    }
+
+    public void setCbse(String cbse) {
+        this.cbse = cbse;
+    }
+
+    public String getVocational_education() {
+        return vocational_education;
+    }
+
+    public void setVocational_education(String vocational_education) {
+        this.vocational_education = vocational_education;
+    }
+}
